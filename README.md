@@ -12,6 +12,6 @@ Me chamo Renato Nascimento, tenho 22 anos e sou natural do Pernambuco. Estou em 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMNascimento&hide_progress=true&theme=radical) 
 
 ## Projetos Acadêmicos 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoMNascimento&repo=RenatoMNascimento&theme=radical)](https://github.com/RenatoMNascimento/portifolio-projetos)
+[![Readme Card](https://app.powerbi.com/reportEmbed?reportId=156956a3-8857-476f-97d6-da76bcd6042d&autoAuth=true&ctid=c0205eec-f970-4c93-ab97-fe08a313bdab)
 
 
